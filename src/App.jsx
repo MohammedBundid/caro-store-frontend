@@ -4,7 +4,7 @@ import Navbar from './components/Navbar'
 import { BrowserRouter, Routes, Route} from 'react-router-dom'
 
 import './index.css'
-import ProductPage from './pages/productPage'
+import ProductPage from './pages/ProductPage'
 import About from './pages/AboutPage'
 import Contacts from './pages/ContactPage'
 import Dashboard from './pages/AdminPage'
